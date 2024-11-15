@@ -1,0 +1,6 @@
+Lorem se usa para ver cuanto espacio va a ocupar un texto. Se escribe lorem+numero de palabras+Tab
+<br> Para poner espacios
+Multitabulador Alt+Cmd+flecha hacia abajo
+Si poner ht te sale html5 que sirve para ponerte lo básico para una página web
+formato html=página web
+formato css= Estilo
